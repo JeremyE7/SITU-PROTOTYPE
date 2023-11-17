@@ -1,0 +1,7 @@
+.main-page{
+    margin-top: 250px;
+    flex-direction: column;
+    background: none;
+    background-color: var(--background);
+    width: 100%;
+}
